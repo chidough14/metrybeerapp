@@ -30,6 +30,8 @@ document.addEventListener("DOMContentLoaded", function() {
     
         document.getElementById('ddn').style.display = '';
         document.getElementById('last').hidden=true;
+
+        document.getElementById('url').innerHTML = `https://api.punkapi.com/v2/beers?beer_name=${value}`
     }); 
     
     var i = 1
