@@ -1,2 +1,2 @@
 # metrybeerapp
-Run the index.html file to see app
+Run the index.html file on a web browser to see app
